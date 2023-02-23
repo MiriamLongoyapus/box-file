@@ -1,0 +1,10 @@
+.out{
+    border: dotted rgb(40, 88, 8);
+
+    
+}
+.in{
+    border: solid rgb(0, 255, 21);
+    padding: 20px;
+    margin: 5%;
+}
